@@ -4,8 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Color Palette Generator</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+   
+    <header>
+        <input id="color-picker" class="color-picker" type="color"> 
+        <select id="color-scheme-selector" class="color-scheme-selector" name="color-scheme" id="color-scheme">
+            <option value="Monochrome">Monochrome</option>
+            <option value="Monochrome-dark">Monochrome-dark</option>
+            <option value="Monochrome-light">Monochrome-light</option>
+            <option value="Analogic">Analogic</option>
+            <option value="Complement">Complement</option>
+            <option value="Analogic-complement">Analogic-complement</option>
+            <option value="Triad">Triad</option>
+        </select>
+        <button id="get-color-btn" class="get-color-btn">Get color scheme</button>
+    </header>
+    <main>
+        <div class="color-hex-container">
+            <div class="color"></div>
+            <p>color</p>
+        </div>
+        <div class="color-hex-container">
+            <div class="color"></div>
+            <p>color</p>
+        </div>
+        <div class="color-hex-container">
+            <div class="color"></div>
+            <p>color</p>
+        </div>
+        <div class="color-hex-container">
+             <div class="color"></div>
+            <p>color</p>
+        </div>
+        <div class="color-hex-container">
+            <div class="color"></div>
+            <p>color</p>
+        </div>
+    </main>
+    <script src="script.js"></script>
 </body>
 </html>
