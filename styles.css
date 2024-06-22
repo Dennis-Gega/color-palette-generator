@@ -64,8 +64,27 @@ main {
 }
 
 .color {
-    background-color: rgb(202, 171, 171);
     height: 70vh;
     margin-bottom: 2vh;
     box-shadow: inset 0px 11px 8px -10px #CCC;
+}
+
+.one {
+    background-color: #03045e;
+}
+
+.two {
+    background-color: #0077b6;
+}
+
+.three {
+    background-color: #00b4d8;
+}
+
+.four {
+    background-color: #90e0ef;
+}
+
+.five {
+    background-color: #caf0f8;
 }
