@@ -1,4 +1,4 @@
-# Project Title: Dynamic Color Palette Generator
+# Dynamic Color Palette Generator
 
 ## Overview
 
