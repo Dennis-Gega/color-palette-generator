@@ -2,7 +2,7 @@
 
 ## Overview
 
-A web application that allows users to generate a dynamic color palette based on a selected color and color scheme. Users can select a base color, choose a color scheme, and then view a generated palette of complementary colors. The application also includes functionality to copy individual color hex codes.
+A web application that allows users to generate a dynamic color palette based on a selected color and color scheme. Users can select a base color, choose a color scheme, and then view a generated palette of complementary colors. The application also includes functionality to copy individual color hex codes. Palettes are fetched from [The Color API](https://www.thecolorapi.com/)
 
 ## Features
 
