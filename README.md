@@ -13,7 +13,7 @@ A web application that allows users to generate a dynamic color palette based on
 
 ## Getting Started
 
-[click here]()
+[Click here]()
 
 ### Prerequisites
 
