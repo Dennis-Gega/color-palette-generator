@@ -67,6 +67,11 @@ main {
     height: 70vh;
     margin-bottom: 2vh;
     box-shadow: inset 0px 11px 8px -10px #CCC;
+    cursor: pointer;
+}
+
+.color:active {
+    opacity: .95;
 }
 
 .one {
@@ -87,4 +92,12 @@ main {
 
 .five {
     background-color: #caf0f8;
+}
+
+.hex-code {
+    cursor: pointer;
+}
+
+.hex-code:active {
+    opacity: .7;
 }
