@@ -13,7 +13,7 @@ A web application that allows users to generate a dynamic color palette based on
 
 ## Getting Started
 
-[Click here]()
+[Click here](https://dennis-gega.github.io/color-palette-generator/)
 
 ### Prerequisites
 
